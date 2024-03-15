@@ -2,7 +2,7 @@ from openai import AzureOpenAI
 
 client = AzureOpenAI(
     azure_endpoint = 'https://dg1-sn.openai.azure.com/',
-    api_key = 'e135ffd6b14f4957a3b94ac1c8ba91d4',
+    api_key = 'INSERT KEY HERE',
     api_version = '2024-02-01'
 )
 
